@@ -11,4 +11,4 @@ build: clean
 	@bundle exec jekyll build --profile --config _config.yml,.debug.yml
 
 server: clean
-	@bundle exec jekyll server --livereload --config _config.yml,.debug.yml
+	@bundle exec jekyll server --host 10.177.235.45 --port 4000 --config _config.yml,.debug.yml

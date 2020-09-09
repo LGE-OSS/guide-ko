@@ -1,11 +1,12 @@
+base_url: /guide_test
 title: LG Open Source
 lang: kor
 description: LG Open Source Guide
 
 remote_theme: rundocs/jekyll-rtd-theme
 
+show_sorted: false
 addons_branch: true
-edit: true
 
 copyright:
   revision: true
