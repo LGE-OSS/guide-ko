@@ -3,7 +3,7 @@ title: LG Open Source
 lang: kor
 description: LG Open Source Guide
 
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: LGE-OSS/jekyll-rtd-theme@v1
 
 show_sorted: false
 addons_branch: true
