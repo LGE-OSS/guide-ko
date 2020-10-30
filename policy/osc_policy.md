@@ -17,7 +17,7 @@ LG전자 Open Source Policy는 LG전자가 배포하는 모든 Software 개발�
 
 LG전자 Open Source Policy는 다음과 같이 구성되어 있습니다.
 
-![](../../../assets/docs/policy.png)
+![](../assets/docs/policy.png)
 
 <table>
   <thead>

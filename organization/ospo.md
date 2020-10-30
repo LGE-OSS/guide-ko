@@ -12,5 +12,5 @@ OSPO는 주로 중앙 집중식\(centralized\) 모델로 운영됩니다. 이를
 
 **OSC 담당팀**은 해당 **SW 개발부서**의 Open Source Copliance Risk 관련 업무를 총괄하는 역할을 수행합니다. 이를 위해 OSC 담당팀은 OSPO와 협업하여 조직 내 SW 개발부서에 OSC 활동을 안내할 수 있어야 합니다.
 
-![](../../../assets/docs/ospo.png)
+![](../assets/docs/ospo.png)
 

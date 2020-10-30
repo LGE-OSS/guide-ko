@@ -11,7 +11,7 @@ sort: 2
 2. [x] SW 개발 부서는 Open Source 사용으로 유발될 수 있는 지식 재산 유출 및 보안 이슈를 해결합니다. 
 3. [x] SW 개발 부서와 OSC 담당팀은 Open Source 분석 결과에 대해 OSPO의 확인을 받습니다.
 
-좀 더 효율적인 Open Source License 식별 과정을 위하여 [Open Source로 공개되어 있는 Tool](../../osc-tool/tool.md)들을 이용하실 수 있습니다.
+좀 더 효율적인 Open Source License 식별 과정을 위하여 [Open Source로 공개되어 있는 Tool](../../tool/osc_tool.md)들을 이용하실 수 있습니다.
 
 
 

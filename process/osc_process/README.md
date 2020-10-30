@@ -15,7 +15,7 @@ LG전자 Open Source Policy 중 Open Source 사용 Policy를 위한 OSC Process�
 
 LG전자 OSC\(Open Source Compliance\) Process는 Software를 배포하는 조직이 LG전자 Open Source Policy를 준수하기 위한 세부적인 활동 가이드를 제공하고 있습니다. 이에 각 Process 단계에서 [부서](../../organization/ospo.md)별 역할을 다음과 같이 확인하실 수 있습니다.
 
-![LG&#xC804;&#xC790; OSC Process](../../../assets/docs/process.png)
+![LG OSC Process](../../assets/docs/process.png)
 
 단계별 활동 및 요구사항은 다음과 같습니다.
 

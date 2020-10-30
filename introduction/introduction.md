@@ -10,15 +10,15 @@ Open Source를 사용하거나 Open Source Community 기여 활동을 하는 조
 
 ### Open Source Compliance를 위한 필수 요소
 
-![Open Source Compliance&#xB97C; &#xC704;&#xD55C; &#xD544;&#xC218; &#xC694;&#xC18C;](../../assets/docs/introduction.png)
+![Open Source Compliance](../../assets/docs/introduction.png "Open Source Compliance를 위한 필수 요소")
 
-본 가이드에서는 각각의 요소를 차례대로 소개하고, 유용할만한 참고 자료들을 공유하고자 합니다. 특히 Policy와 Process에서는 LG Open Source의 [Core value](https://lge-oss.github.io/about/)에 따라 LG전자의 [Open Source Policy](policy/osc_policy.md)와 [Open Source Compliance Process](process/osc-process/)를 각각 공개하였습니다. 
+본 가이드에서는 각각의 요소를 차례대로 소개하고, 유용할만한 참고 자료들을 공유하고자 합니다. 특히 Policy와 Process에서는 LG Open Source의 [Core value](https://lge-oss.github.io/about/)에 따라 LG전자의 [Open Source Policy](../policy/osc_policy.md)와 [Open Source Compliance Process](../process/osc_process/README.md)를 각각 공개하였습니다. 
 
-1. [Organization](organization/ospo.md)
-2. [Policy](policy/osc_policy.md)
-3. [Process](process/osc_process/)
-4. [Tool](tool/osc_tool.md)
-5. [Education](education/osc_education.md)
+1. [Organization](../organization/ospo.md)
+2. [Policy](../policy/osc_policy.md)
+3. [Process](../process/osc_process/README.md)
+4. [Tool](../tool/osc_tool.md)
+5. [Education](../education/osc_education.md)
 
  
 
