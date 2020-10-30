@@ -5,7 +5,7 @@ sort: 1
 
 # OSC Process
 
-[Open Source Policy](../../policy/policy.md)를 정하였다면, 이를 준수하기 위해 필요한 활동들이 있습니다. 기업에서 효과적으로 Open Source Policy를 전파하기 위해서는 이를 위한 활동 및 요구사항을 Process로 구축하는 것이 효율적입니다.
+[Open Source Policy](../../policy/osc_policy.md)를 정하였다면, 이를 준수하기 위해 필요한 활동들이 있습니다. 기업에서 효과적으로 Open Source Policy를 전파하기 위해서는 이를 위한 활동 및 요구사항을 Process로 구축하는 것이 효율적입니다.
 
 LG전자 Open Source Policy 중 Open Source 사용 Policy를 위한 OSC Process를 공개합니다.
 
