@@ -11,6 +11,9 @@ addons_branch: true
 copyright:
   revision: true
 
+google:
+  gtag: UA-181757464-1
+
 addons:
   - github
   - i18n
