@@ -10,25 +10,25 @@ sort: 1
 
 
 
-### 소스 코드 분석 툴
+### 소스 코드 분석 Tool
 
 | 이름 | Repository | Homepage |
 | :--- | :--- | :--- |
-| Fossology | [https://github.com/fossology/fossology](https://github.com/fossology/fossology) | [https://www.fossology.org/](https://www.fossology.org/) |
+| FOSSology | [https://github.com/fossology/fossology](https://github.com/fossology/fossology) | [https://www.fossology.org/](https://www.fossology.org/) |
 | Scancode | [https://github.com/nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) | [https://scancode-toolkit.readthedocs.io/en/latest/index.html](https://scancode-toolkit.readthedocs.io/en/latest/index.html) |
 
 
 
-### Dependency 분석 툴
+### Dependency 분석 Tool
 
 | 이름 | Repository | Homepage |
 | :--- | :--- | :--- |
 | Fossa | [https://github.com/fossas/fossa-cli](https://github.com/fossas/fossa-cli) | [https://fossa.com/](https://fossa.com/) |
 | OSS Review Toolkit | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | [https://oss-review-toolkit.org/](https://oss-review-toolkit.org/) |
 
-### 
+ 
 
-### Open Source 관리 툴
+### Open Source 관리 Tool
 
 | 이름 | Repository | Homepage |
 | :--- | :--- | :--- |
@@ -37,9 +37,16 @@ sort: 1
 
 
 
-### 기타 유용한 툴
+### Open Source Tool 가이드
+
+| 이름 | Repository | Homepage |
+| :--- | :--- | :--- |
+| FOSSology | [https://github.com/LGE-OSS/fossology-guide](https://github.com/LGE-OSS/fossology-guide) | [https://lge-oss.github.io/fossology-guide/](https://lge-oss.github.io/fossology-guide/) |
+
+
+
+### 기타 유용한 Tool
 
 | 이름 | Repository | Homepage |
 | :--- | :--- | :--- |
 | reuse | [https://github.com/fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) | [https://reuse.software/](https://reuse.software/) |
-
