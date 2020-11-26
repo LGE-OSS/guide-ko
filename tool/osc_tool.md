@@ -12,41 +12,33 @@ sort: 1
 
 ### 소스 코드 분석 Tool
 
-| 이름 | Repository | Homepage |
+| Name | Repository | LGE Guide |
 | :--- | :--- | :--- |
-| FOSSology | [https://github.com/fossology/fossology](https://github.com/fossology/fossology) | [https://www.fossology.org/](https://www.fossology.org/) |
-| Scancode | [https://github.com/nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) | [https://scancode-toolkit.readthedocs.io/en/latest/index.html](https://scancode-toolkit.readthedocs.io/en/latest/index.html) |
+| [FOSSology](https://www.fossology.org/) | [https://github.com/fossology/fossology](https://github.com/fossology/fossology) | [https://lge-oss.github.io/fossology-guide/](https://lge-oss.github.io/fossology-guide/)  |
+| [Scancode](https://scancode-toolkit.readthedocs.io/en/latest/index.html) | [https://github.com/nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) | TB BE |
 
 
 
 ### Dependency 분석 Tool
 
-| 이름 | Repository | Homepage |
+| Name | Repository | LGE Guide |
 | :--- | :--- | :--- |
-| Fossa | [https://github.com/fossas/fossa-cli](https://github.com/fossas/fossa-cli) | [https://fossa.com/](https://fossa.com/) |
-| OSS Review Toolkit | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | [https://oss-review-toolkit.org/](https://oss-review-toolkit.org/) |
+| [Fossa](https://fossa.com/) | [https://github.com/fossas/fossa-cli](https://github.com/fossas/fossa-cli) | - |
+| [OSS Review Toolkit](https://oss-review-toolkit.org/) | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | TO BE |
 
  
 
 ### Open Source 관리 Tool
 
-| 이름 | Repository | Homepage |
+| Name | Repository | LGE Guide |
 | :--- | :--- | :--- |
-| OSS Review Toolkit | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | [https://oss-review-toolkit.org/](https://oss-review-toolkit.org/) |
-| SW360 | [https://github.com/eclipse/sw360](https://github.com/eclipse/sw360) | [https://github.com/eclipse/sw360](https://github.com/eclipse/sw360) |
-
-
-
-### Open Source Tool 가이드
-
-| 이름 | Repository | Homepage |
-| :--- | :--- | :--- |
-| FOSSology | [https://github.com/LGE-OSS/fossology-guide](https://github.com/LGE-OSS/fossology-guide) | [https://lge-oss.github.io/fossology-guide/](https://lge-oss.github.io/fossology-guide/) |
+| [OSS Review Toolkit](https://oss-review-toolkit.org/) | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | TO BE |
+| [SW360](https://github.com/eclipse/sw360) | [https://github.com/eclipse/sw360](https://github.com/eclipse/sw360) | - |
 
 
 
 ### 기타 유용한 Tool
 
-| 이름 | Repository | Homepage |
+| Name | Repository | LGE Guide |
 | :--- | :--- | :--- |
-| reuse | [https://github.com/fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) | [https://reuse.software/](https://reuse.software/) |
+| [reuse](https://reuse.software/) | [https://github.com/fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) | - |
