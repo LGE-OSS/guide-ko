@@ -24,7 +24,7 @@ sort: 1
 | Name | Repository | LGE Guide |
 | :--- | :--- | :--- |
 | [Fossa](https://fossa.com/) | [https://github.com/fossas/fossa-cli](https://github.com/fossas/fossa-cli) | - |
-| [OSS Review Toolkit](https://oss-review-toolkit.org/) | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | TO BE |
+| [OSS Review Toolkit](https://oss-review-toolkit.org/) | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | https://lge-oss.github.io/oss-review-toolkit-guide |
 
  
 
@@ -32,7 +32,7 @@ sort: 1
 
 | Name | Repository | LGE Guide |
 | :--- | :--- | :--- |
-| [OSS Review Toolkit](https://oss-review-toolkit.org/) | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | TO BE |
+| [OSS Review Toolkit](https://oss-review-toolkit.org/) | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | https://lge-oss.github.io/oss-review-toolkit-guide |
 | [SW360](https://github.com/eclipse/sw360) | [https://github.com/eclipse/sw360](https://github.com/eclipse/sw360) | - |
 
 
