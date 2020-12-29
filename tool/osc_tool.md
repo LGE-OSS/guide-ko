@@ -15,7 +15,7 @@ sort: 1
 | Name | Repository | LGE Guide |
 | :--- | :--- | :--- |
 | [FOSSology](https://www.fossology.org/) | [https://github.com/fossology/fossology](https://github.com/fossology/fossology) | [https://lge-oss.github.io/fossology-guide/](https://lge-oss.github.io/fossology-guide/)  |
-| [Scancode](https://scancode-toolkit.readthedocs.io/en/latest/index.html) | [https://github.com/nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) | TB BE |
+| [Scancode](https://scancode-toolkit.readthedocs.io/en/latest/index.html) | [https://github.com/nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) | TO BE |
 
 
 
