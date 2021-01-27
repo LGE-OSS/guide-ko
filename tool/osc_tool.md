@@ -25,6 +25,7 @@ sort: 1
 | :--- | :--- | :--- |
 | [Fossa](https://fossa.com/) | [https://github.com/fossas/fossa-cli](https://github.com/fossas/fossa-cli) | - |
 | [OSS Review Toolkit](https://oss-review-toolkit.org/) | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) | [https://lge-oss.github.io/oss-review-toolkit-guide](https://lge-oss.github.io/oss-review-toolkit-guide/) |
+| [FOSSLight dependency](https://github.com/LGE-OSS/fosslight_dependency/) | [https://github.com/LGE-OSS/fosslight_dependency/](https://github.com/LGE-OSS/fosslight_dependency/) | [https://github.com/LGE-OSS/fosslight_dependency/](https://github.com/LGE-OSS/fosslight_dependency/) |
 
  
 
