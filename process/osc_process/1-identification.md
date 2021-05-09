@@ -31,6 +31,6 @@ sort: 1
 <br>
 
 ```tip
-효율적인 Open Source 분석을 위하여 [Open Source로 공개되어 있는 Tool](../../tool/osc_tool.md)들을 이용하실 수 있습니다.
+효율적인 Open Source 분석을 위하여 Open Source로 공개되어 있는 Tool들을 이용하실 수 있습니다.
 더 많은 Open Source 툴들에 대한 정보는 [Tool](../../tool/osc_tool.md) 페이지를 참조하시기 바랍니다.
 ```
