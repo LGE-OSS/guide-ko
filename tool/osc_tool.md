@@ -26,7 +26,7 @@ sort: 1
 | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
 | [Fossa](https://fossa.com/)                                                   | [https://github.com/fossas/fossa-cli](https://github.com/fossas/fossa-cli)                                 | -                                                                                                          |
 | [OSS Review Toolkit](https://oss-review-toolkit.org/)                         | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort)                     | [https://oss.lge.com/oss-review-toolkit-guide](https://oss.lge.com/oss-review-toolkit-guide)               |
-| [**FOSSLight Dependency**](https://github.com/fosslight/fosslight_dependency) | [**https://github.com/fosslight/fosslight_dependency**](https://github.com/fosslight/fosslight_dependency) | [**https://github.com/fosslight/fosslight_dependency**](https://github.com/fosslight/fosslight_dependency) |
+| [**FOSSLight Dependency**](https://github.com/fosslight/fosslight_dependency) | [**https://github.com/fosslight/fosslight_dependency**](https://github.com/fosslight/fosslight_dependency) | [**https://github.com/fosslight/fosslight_dependency**](https://github.com/fosslight/fosslight_dependency/blob/main/docs/user-guide_Kor.md) |
 
 <br>
 
