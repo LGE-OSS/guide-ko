@@ -16,7 +16,7 @@ sort: 1
 | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
 | [FOSSology](https://www.fossology.org/)                                  | [https://github.com/fossology/fossology](https://github.com/fossology/fossology)                   | [https://oss.lge.com/fossology-guide](https://oss.lge.com/fossology-guide)                         |
 | [Scancode](https://scancode-toolkit.readthedocs.io/en/latest/index.html) | [https://github.com/nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit)               | TO BE                                                                                              |
-| [**FOSSLight Source**](https://github.com/fosslight/fosslight_source)    | [**https://github.com/fosslight/fosslight_source**](https://github.com/fosslight/fosslight_source) | [**https://github.com/fosslight/fosslight_source**](https://github.com/fosslight/fosslight_source) |
+| [**FOSSLight Source**](https://github.com/fosslight/fosslight_source)    | [**https://github.com/fosslight/fosslight_source**](https://github.com/fosslight/fosslight_source) | [**https://github.com/fosslight/fosslight_source**](https://github.com/fosslight/fosslight_source/blob/main/docs/README_Kor.md) |
 
 <br>
 
