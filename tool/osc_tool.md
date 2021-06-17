@@ -16,7 +16,7 @@ sort: 1
 | :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
 | [FOSSology](https://www.fossology.org/)                                  | [https://github.com/fossology/fossology](https://github.com/fossology/fossology)                   | [https://oss.lge.com/fossology-guide](https://oss.lge.com/fossology-guide)                         |
 | [Scancode](https://scancode-toolkit.readthedocs.io/en/latest/index.html) | [https://github.com/nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit)               | TO BE                                                                                              |
-| [**FOSSLight Source**](https://github.com/fosslight/fosslight_source)    | [**https://github.com/fosslight/fosslight_source**](https://github.com/fosslight/fosslight_source) | [**https://github.com/fosslight/fosslight_source**](https://github.com/fosslight/fosslight_source/blob/main/docs/README_Kor.md) |
+| [👍**FOSSLight Source Scanner**](https://github.com/fosslight/fosslight_source_scanner)    | [**https://github.com/fosslight/fosslight_source_scanner**](https://github.com/fosslight/fosslight_source_scanner) | [**https://github.com/fosslight/fosslight_source_scanner**](https://github.com/fosslight/fosslight_source_scanner/blob/main/docs/README_Kor.md) |
 
 <br>
 
@@ -26,7 +26,7 @@ sort: 1
 | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
 | [Fossa](https://fossa.com/)                                                   | [https://github.com/fossas/fossa-cli](https://github.com/fossas/fossa-cli)                                 | -                                                                                                          |
 | [OSS Review Toolkit](https://oss-review-toolkit.org/)                         | [https://github.com/oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort)                     | [https://oss.lge.com/oss-review-toolkit-guide](https://oss.lge.com/oss-review-toolkit-guide)               |
-| [**FOSSLight Dependency**](https://github.com/fosslight/fosslight_dependency) | [**https://github.com/fosslight/fosslight_dependency**](https://github.com/fosslight/fosslight_dependency) | [**https://github.com/fosslight/fosslight_dependency**](https://github.com/fosslight/fosslight_dependency/blob/main/docs/user-guide_Kor.md) |
+| [**👍FOSSLight Dependency Scanner**](https://github.com/fosslight/fosslight_dependency_scanner) | [**https://github.com/fosslight/fosslight_dependency_scanner**](https://github.com/fosslight/fosslight_dependency_scanner) | [**https://github.com/fosslight/fosslight_dependency_scanner**](https://github.com/fosslight/fosslight_dependency_scanner/blob/main/docs/user-guide_Kor.md) |
 
 <br>
 
@@ -34,7 +34,7 @@ sort: 1
 
 | Name                                                  | Repository                                                                             | LGE Guide                                                                                    |
 | :---------------------------------------------------- | :------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| [**FOSSLight**](https://fosslight.org/)               | [**https://github.com/fosslight/fosslight**](https://github.com/fosslight/fosslight)   | [**https://fosslight.org/fosslight-guide**](https://fosslight.org/fosslight-guide)           |
+| [**👍FOSSLight**](https://fosslight.org/)               | [**https://github.com/fosslight/fosslight**](https://github.com/fosslight/fosslight)   | [**https://fosslight.org/fosslight-guide**](https://fosslight.org/fosslight-guide)           |
 | [SW360](https://github.com/eclipse/sw360)             | [https://github.com/eclipse/sw360](https://github.com/eclipse/sw360)                   | -                                                                                            |
 
 <br>
