@@ -1,7 +1,7 @@
-base_url: /guide
-title: LG Open Source
-lang: kor
-description: LG Open Source Guide
+base_url: /guide-ko
+title: LG Open Source Korean Guide
+lang: ko
+description: LG Open Source Guide Korean version
 
 remote_theme: LGE-OSS/jekyll-rtd-theme
 
