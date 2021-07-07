@@ -18,7 +18,7 @@ LG전자 OSC\(Open Source Compliance\) Process는 Software를 배포하는 조�
 
 단계별 활동 및 요구사항은 다음과 같습니다.
 
-- [1단계 Identification](1-identification.md)
-- [2단계 Approval](2-approval.md)
-- [3단계 Notice & Verification](3-notice-and-verification.md)
-- [4단계 Distribution](4-distribution.md)
+- [1단계 Identification](1-identification)
+- [2단계 Approval](2-approval)
+- [3단계 Notice & Verification](3-notice-and-verification)
+- [4단계 Distribution](4-distribution)
