@@ -1,5 +1,6 @@
 ---
 sort: 2
+title: 2. Approval
 ---
 
 # 2단계 Approval

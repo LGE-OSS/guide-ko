@@ -3,4 +3,4 @@ sort: 3
 ---
 
 # Process
-{% include list.liquid %}
+{% include list.liquid all=true %}

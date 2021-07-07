@@ -1,5 +1,6 @@
 ---
 sort: 4
+title: 4. Distribution
 ---
 
 # 4단계 Distribution
