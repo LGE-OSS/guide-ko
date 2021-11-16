@@ -23,7 +23,7 @@ sort: 1
   <tbody>
     <tr>
       <td><b>저작권 및 License <br/>표기 룰 준수 </b></td>
-      <td><a href="https://github.com/fosslight/fosslight_reuse"><b>FOSSLight REUSE</b></a></td>
+      <td><a href="https://github.com/fosslight/fosslight_reuse"><b>FOSSLight Reuse</b></a></td>
       <td>reuse-tool을 이용하여 소스 코드의 저작권 및 License 표기 규칙을 준수하는지<br/>확인하고 보완하기 위해 사용할 수 있는 도구입니다.
       <br /><a href="https://fosslight.org/fosslight-guide/scanner/1_reuse.html">🔗Guide Link</a></td>
     </tr>
