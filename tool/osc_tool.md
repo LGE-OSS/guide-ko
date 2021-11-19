@@ -64,4 +64,4 @@ sort: 1
 | Tool Name                                                  | Description & Guide  |                                                                         
 | :---------------------------------------------------- | :----------------------------------------- |
 | [**FOSSLight Hub**](https://fosslight.org/)             | FOSSLight Hub는 오픈 소스, 오픈 소스 라이선스, 그리고 보안취약점까지 관리해줌으로써 오픈 소스 소프트웨어 사용 시 Compliance를 준수하고 보안취약점으로부터 안전하게 사용할 수 있습니다. 또한 프로젝트 별 BOM 관리, 오픈 소스 라이선스의 의무사항 및 보안취약점 조회 기능을 제공하여 OSC(Open Source Compliance) Process를 수행할 수 있도록 도와줍니다.<br/>[🔗Guide Link](https://fosslight.org/fosslight-guide)           |
-| [SW360](https://www.eclipse.org/sw360/)             | SW360은 소프트웨어 BOM에 대한 정보를 수집 및 추적하기 위한 웹 애플리케이션 및 저장소를 제공합니다.<br/>[🔗Guide Link](https://github.com/eclipse/sw360) | 
+| [SW360](https://www.eclipse.org/sw360/)             | SW360은 소프트웨어 BOM에 대한 정보를 수집 및 추적하기 위한 웹 애플리케이션 및 저장소를 제공합니다. | 
