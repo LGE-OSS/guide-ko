@@ -23,46 +23,34 @@ LG전자 Open Source Policy는 다음과 같이 구성되어 있습니다.
   <thead>
     <tr>
       <th style="text-align:left">Policy</th>
-      <th style="text-align:left">&#xB0B4;&#xC6A9;</th>
+      <th style="text-align:left">내용</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
         <p>Open Source</p>
-        <p>&#xC0AC;&#xC6A9; Policy</p>
+        <p>사용 Policy</p>
       </td>
-      <td style="text-align:left">LG&#xC804;&#xC790;&#xAC00; &#xBC30;&#xD3EC;&#xD558;&#xAE30; &#xC704;&#xD55C;
-        Software&#xC5D0; Open Source&#xB97C; &#xC0AC;&#xC6A9;&#xD560; &#xB54C;
-        &#xC9C0;&#xC2DD; &#xC7AC;&#xC0B0; &#xBCF4;&#xD638;&#xC640; Compliance Risk
-        &#xC644;&#xD654;&#xB97C; &#xC704;&#xD574; &#xC900;&#xC218;&#xD574;&#xC57C;
-        &#xD558;&#xB294; &#xC815;&#xCC45;&#xC785;&#xB2C8;&#xB2E4;.</td>
+      <td style="text-align:left">LG전자가 배포하기 위한 Software에 Open Source를 사용할 때 지식 재산 보호와 Compliance Risk 완화를 위해 준수해야 하는 정책입니다.</td>
     </tr>
     <tr>
-      <td style="text-align:left">3rd Party Software &#xC0AC;&#xC6A9; Policy</td>
-      <td style="text-align:left">LG&#xC804;&#xC790;&#xAC00; &#xBC30;&#xD3EC;&#xD558;&#xACE0;&#xC790; &#xD558;&#xB294;
-        Software&#xC5D0; &#xD3EC;&#xD568;&#xB41C; 3rd Party Software&#xC5D0; &#xB300;&#xD55C;
-        Open Source Compliance&#xB97C; &#xC704;&#xD574; &#xC900;&#xC218;&#xD574;&#xC57C;
-        &#xD558;&#xB294; &#xC815;&#xCC45;&#xC785;&#xB2C8;&#xB2E4;.</td>
+      <td style="text-align:left">3rd Party Software 사용 Policy</td>
+      <td style="text-align:left">LG전자가 배포하고자 하는 Software에 포함된 3rd Party Software에 대한 Open Source Compliance를 위해 준수해야 하는 정책입니다.</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p>Open Source</p>
-        <p>&#xAE30;&#xC5EC; Policy</p>
+        <p>공개/기여 Policy</p>
       </td>
-      <td style="text-align:left">LG&#xC804;&#xC790;&#xC5D0;&#xC11C; &#xAC1C;&#xBC1C;&#xD55C; Software&#xB97C;
-        Open Source Community&#xC5D0; &#xAE30;&#xC5EC; &#xC2DC; &#xC900;&#xC218;&#xD574;&#xC57C;
-        &#xD558;&#xB294; &#xC815;&#xCC45;&#xC785;&#xB2C8;&#xB2E4;.</td>
+      <td style="text-align:left">LG전자에서 개발한 Software를 Open Source로 공개하거나 기여할 때 준수해야 하는 정책입니다.</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>&#xC678;&#xBD80; &#xD074;&#xB808;&#xC784;</p>
-        <p>&#xB300;&#xC751; Policy</p>
+        <p>외부 클레임</p>
+        <p>대응 Policy</p>
       </td>
-      <td style="text-align:left">&#xC678;&#xBD80;&#xB85C;&#xBD80;&#xD130; &#xD074;&#xB808;&#xC784;&#xC744;
-        &#xBC1B;&#xC558;&#xC744; &#xB54C; &#xD6A8;&#xACFC;&#xC801;&#xC73C;&#xB85C;
-        &#xB300;&#xC751;&#xD558;&#xAE30; &#xC704;&#xD574; &#xC900;&#xC218;&#xD574;&#xC57C;
-        &#xD558;&#xB294; &#xC815;&#xCC45;&#xC785;&#xB2C8;&#xB2E4;.</td>
+      <td style="text-align:left">외부로부터 클레임을 받았을 때 효과적으로 대응하기 위해 준수해야 하는 정책입니다.</td>
     </tr>
   </tbody>
 </table>
