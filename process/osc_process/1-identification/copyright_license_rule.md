@@ -41,35 +41,40 @@ oss-pkg-info.yaml 파일 (Yaml 형식)을 생성하고, 다음과 같이 OSS Pac
 단, 이미 이와 같은 정보를 포함하고 있는 file(ex-requirements.txt, pom.xml)이 존재한다면 해당 file로 대체 가능합니다.
 
 ```
-Open Source Software Package:
-- name: glibc
-  version: 2.28
-  source: https://ftp.gnu.org/gnu/glibc
+libidn:
+- version: "1.5"
+  source name or path:
+  - a.c
+  - b.c
   license:
-  - GPL-2.0
-  - LGPL-2.1
-  file : 
-  - main.c
-  - main.h
-- name : dbus
-  version : 1.9.14
-  source : https://dbus.freedesktop.org/releases/dbus
-  homepage : https://www.freedesktop.org
-  license : GPL-2.0
-  file : src/*
-  copyright : |
-   Copyright (c) 1992-2014 Free Software Foundation, Inc.
-   Copyright (c) 2003 Philip Blundell 
-- name : node-openssl
-  version : 1.0.1
-  source : https://github.com/131/node-openssl
-  license : ISC
-- name : bazel
-  source : https://github.com/bazelbuild/bazel
-  license : Apache-2.0
-  file : build/
-  exclude : True
-  comment : Script for build
+  - "GPL-3.0"
+  - "LGPL-2.1"
+  download location: "http://ftp.gnu.org/gnu/libidn"
+  homepage: "https://www.gnu.org/software/libidn"
+  copyright text: "Copyright (c) 2002-2007, Simon Josefsson"
+node-backoff:
+- version: "2.5.0"
+  source name or path: "src/*"
+  license: "MIT"
+  download location: "https://github.com/MathieuTurcotte/node-backoff"
+  homepage: "https://www.npmjs.com/package/backoff"
+  copyright text: "Copyright (c) 2012 Mathieu Turcotte"
+  exclude: True
+rsync:
+- version: "2.6.9"
+  source name or path: "test/tool"
+  license: "GPL-2.0"
+  download location: "https://download.samba.org/pub/rsync/src"
+  homepage: "http://rsync.samba.org"
+- version: "3.1.2"
+  source name or path: "test/tool"
+  license: "GPL-3.0"
+  download location: "https://download.samba.org/pub/rsync/src"
+  homepage: "http://rsync.samba.org"
+  copyright text:
+  - "Copyright (c) 1996 Andrew Tridgell"
+  - "Copyright (c) 1996 Paul Mackerras"
+  - "Copyright (c) 2003-2015 Wayne Davison"
 ```
 
 ## 3. License 원문 파일 추가
